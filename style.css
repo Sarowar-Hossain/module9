@@ -1,0 +1,33 @@
+
+.img-colum-1{
+    display: flex;
+}
+.img1{
+    margin: 5px;
+    width: 500px;
+}
+main img{
+    width: 100%;
+    height: 100%;
+}
+
+.title{
+    text-align: center;
+}
+.img2{
+    width: 500px;
+    height: 400px;
+    margin: 5px;
+}
+.img-colum-2{
+    display: flex;
+}
+.double-img-1{
+    width: 500px;
+    height: 200px;
+}
+.fourth-img{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
